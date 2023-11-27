@@ -1,4 +1,4 @@
-## Tugas Membuat Sistem Login Sederhana dengan teck stack EVN(Express, Vue, Node)
+## Tugas Membuat Sistem Login Sederhana dengan tech stack EVN(Express, Vue, Node)
 
 Nama: Umar Jihad
 <br>
