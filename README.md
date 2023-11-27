@@ -1,4 +1,4 @@
-## Tugas Membuat Sistem Login Sederhana Menggunakan Framework VueJS
+## Tugas Membuat Sistem Login Sederhana dengan tech stack EVN(Express, Vue, Node)
 
 Nama: Umar Jihad
 <br>
